@@ -55,6 +55,6 @@ game.hand();
 console.log("Hand Length: " + game.output.length);
 game.roll(7, 10);
 game.hand();
-console.log("Hand Length: " + game.output.length);
+console.log("Hand Length w/ 10 sided dice: " + game.output.length);
 console.log("+++");
 
